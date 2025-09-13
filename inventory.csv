@@ -1,0 +1,111 @@
+item_name,sku,brand,category,size_display,unit_size_ml,uom,bottles_per_case,on_hand,low_threshold,vendor,cost_per_unit,sell_price,inventory_ml,missing_item_name,missing_size,active
+1800 Anejo,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+1800 Blanco,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+Absolut,,,Vodka,,,,1.0,1.0,2.0,,,,,False,True,True
+Angel's Envy,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Bacardi Black,,,Rum,,,,1.0,3.0,2.0,,,,,False,True,True
+Bacardi Blanca,,,Rum,,,,1.0,10.0,2.0,,,,,False,True,True
+Bacardi Coconut,,,Rum,,,,1.0,2.0,2.0,,,,,False,True,True
+Bacardi Spiced,,,Rum,,,,1.0,3.0,2.0,,,,,False,True,True
+Basil Hayden,,,Whiskey,,,,1.0,14.0,2.0,,,,,False,True,True
+Basil Hayden Bourbon 10,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Beefeater,,,Gin,,,,1.0,1.0,2.0,,,,,False,True,True
+Belvedere,,,Vodka,,,,1.0,1.0,2.0,,,,,False,True,True
+Bombay Sapphire,,,Gin,,,,1.0,1.0,2.0,,,,,False,True,True
+Bondstown,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Bowmore 15,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Buffalo Trace,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Bulleit Bourbon,,,Whiskey,,,,1.0,24.0,2.0,,,,,False,True,True
+Bulleit Bourbon 10 Year,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Bulleit Rye,,,Whiskey,,,,1.0,4.0,2.0,,,,,False,True,True
+Captain Morgan,,,Rum,,,,1.0,1.0,2.0,,,,,False,True,True
+Casamigos Anejo,,,Tequila,,,,1.0,11.0,2.0,,,,,False,True,True
+Casamigos Blanco,,,Tequila,,,,1.0,17.0,2.0,,,,,False,True,True
+Casamigos Mezcal,,,Mezcal,,,,1.0,3.0,2.0,,,,,False,True,True
+Casamigos Reposado,,,Tequila,,,,1.0,20.0,2.0,,,,,False,True,True
+Chestnut Farms Bourbon,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Chivas Regal,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Crown Royal,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Crown Royal Regal Apple,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+D'usse Cognac,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Dalmore 12,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Dalmore 14,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Dewar's White Label,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Don Julio 1942,,,Tequila,,,,1.0,2.0,2.0,,,,,False,True,True
+Don Julio Anejo,,,Tequila,,,,1.0,6.0,2.0,,,,,False,True,True
+Don Julio Blanco,,,Tequila,,,,1.0,12.0,2.0,,,,,False,True,True
+Don Julio Reposado,,,Tequila,,,,1.0,11.0,2.0,,,,,False,True,True
+Elijah Craig,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Elijah Craig Toasted Barrel,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Empress 1908,,,Gin,,,,1.0,7.0,2.0,,,,,False,True,True
+Fuyu Japanese,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Glenfiddich 1 2,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Glenfiddich 15,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Glenfiddich 18,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Grey Goose,,,Vodka,,,,1.0,2.0,2.0,,,,,False,True,True
+Haku,,,Vodka,,,,1.0,4.0,2.0,,,,,False,True,True
+Hatozaki 12,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Hendricks,,,Gin,,,,1.0,14.0,2.0,,,,,False,True,True
+Hennessy Cognac,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Hennessy Very Special,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Hennessy VSOP,,,Cognac,,,,1.0,3.0,2.0,,,,,False,True,True
+Hibiki,,,Whiskey,,,,1.0,3.0,2.0,,,,,False,True,True
+Isle of Sky 12,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Isle of Sky 18,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Jameson,,,Whiskey,,,,1.0,12.0,2.0,,,,,False,True,True
+Johnnie Walker Black 12,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Johnnie Walker Blue Label,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Johnnie Walker Gold Reserve,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Johnnie Walker Green 15,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Jura 10,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Jura 18,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Kaigan,,,Whiskey,,,,1.0,3.0,2.0,,,,,False,True,True
+Ketel One Lemon,,,Vodka,,,,1.0,1.0,2.0,,,,,False,True,True
+Ketel One Orange,,,Vodka,,,,1.0,1.0,2.0,,,,,False,True,True
+Ketel One Regular,,,Vodka,,,,1.0,1.0,2.0,,,,,False,True,True
+Kilbrin Irish,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Knob Creek,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Macallan 12,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Macallan 15,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Macallan 25,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Macallan Oscuro,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Macallan Terra,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Maker's Mark,,,Whiskey,,,,1.0,18.0,2.0,,,,,False,True,True
+Martell VSOP Cognac,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+McKenna 10,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Michters Bourbon,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Michters Rye,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Midori,,,Liqueur,,,,1.0,0.0,2.0,,,,,False,True,True
+Misunderstood Ginger Spiced Whiskey,,,Whiskey,,,,1.0,6.0,2.0,,,,,False,True,True
+Misunderstood Orange Blossom Whiskey,,,Whiskey,,,,1.0,6.0,2.0,,,,,False,True,True
+Monkey 47,,,Gin,,,,1.0,2.0,2.0,,,,,False,True,True
+Naud Fine Cognac VSOP,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+New Amsterdam Stratusphere,,,Gin,,,,1.0,5.0,2.0,,,,,False,True,True
+Nikka Days,,,Whiskey,,,,1.0,3.0,2.0,,,,,False,True,True
+Number Ten,,,Gin,,,,1.0,3.0,2.0,,,,,False,True,True
+Ohishi Sherry,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Paramount,,,Rum,,,,1.0,1.0,2.0,,,,,False,True,True
+Patron Anejo,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+Patron Reposado,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+Patron Silver,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+Remy Maritn VSOP,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Remy Martin 1738,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Remy Martin xo extra old cognac,,,Cognac,,,,1.0,1.0,2.0,,,,,False,True,True
+Roku,,,Gin,,,,1.0,7.0,2.0,,,,,False,True,True
+Seagrams,,,Vodka,,,,1.0,0.0,2.0,,,,,False,True,False
+Shimauta 10,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Sipsmith,,,Gin,,,,1.0,2.0,2.0,,,,,False,True,True
+Still Austin Bourbon,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Tanqueray,,,Gin,,,,1.0,1.0,2.0,,,,,False,True,True
+Tenjaku Pure Malt,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Teremana Blanco,,,Tequila,,,,1.0,1.0,2.0,,,,,False,True,True
+Titos,,,Vodka,,,,1.0,6.0,2.0,,,,,False,True,True
+Toki Suntory,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Valeo Silver,,,Tequila,,,,1.0,33.0,2.0,,,,,False,True,True
+Wild Turkey Bourbon,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Wolcott Bourbon,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Woodford Reserve,,,Whiskey,,,,1.0,4.0,2.0,,,,,False,True,True
+Yamato Special,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Yamato Takadashi Mizunara,,,Whiskey,,,,1.0,1.0,2.0,,,,,False,True,True
+Yamazaki 12,,,Whiskey,,,,1.0,2.0,2.0,,,,,False,True,True
+Zachariah Bourbon,,,Whiskey,,,,1.0,17.0,2.0,,,,,False,True,True
